@@ -1,0 +1,47 @@
+1.- git init 
+2.- git clone ............
+3.- git config --global user.name "Tu Nombre"
+    git config --global user.email "tuemail@example.com"
+4.- git add .
+5.- git commit -m "aws zip"
+6.- git push origin main
+
+
+Nota: ojo con el main y con e master la dirección 
+
+------------vita-------------------
+npm install 
+npm run dev
+-----------------------------------------
+-------R------E----------A--------C----T--------------
+npx create-react-app mi-app  (mi-app) es el nombre del proyecto que yo deseo poner
+npm start 
+
+
+git clone --branch developer https://github.com/joanmera/breath_game.git
+
+
+PS C:\Users\josem\Desktop\PROYECTO\breath_game> git init
+Reinitialized existing Git repository in C:/Users/josem/Desktop/PROYECTO/breath_game/.git/
+PS C:\Users\josem\Desktop\PROYECTO\breath_game> git add .
+PS C:\Users\josem\Desktop\PROYECTO\breath_game> git commit -m "botones_texto"
+[desarrollo f8a215d] botones_texto
+ 4 files changed, 59 insertions(+), 20 deletions(-)
+PS C:\Users\josem\Desktop\PROYECTO\breath_game> git checkout -b desarrollo
+fatal: a branch named 'desarrollo' already exists
+PS C:\Users\josem\Desktop\PROYECTO\breath_game> git push origin desarrollo
+Enumerating objects: 13, done.
+Counting objects: 100% (13/13), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 2.30 KiB | 2.30 MiB/s, done.
+Total 7 (delta 4), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To https://github.com/joanmera/breath_game.git
+   d426d32..f8a215d  desarrollo -> desarrollo
+PS C:\Users\josem\Desktop\PROYECTO\breath_game>
+
+
+
+
+
